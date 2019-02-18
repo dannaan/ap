@@ -17,7 +17,7 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.baidu.com</string>
+					<string>http://img3.imgtn.bdimg.com/it/u=1949362242,540698907&fm=26&gp=0.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.SolarSoft.SolarWallet</string>
+				<string>com.app.hangfengjianguan</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>3.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>chjz.0</string>
+				<string>行风监管</string>
 			</dict>
 		</dict>
 	</array>
